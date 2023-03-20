@@ -1,3 +1,4 @@
+// Print the all value of array
 #include<stdio.h>
 #include<conio.h>
 
