@@ -1,7 +1,8 @@
 // Write an array & make sum of all even or odd numbers
 #include <stdio.h>
+#include<conio.h>
 
-int main() {
+void main() {
     int numbers[6] = {2, 5, 3, 9, 4, 6};
     int even_sum = 0;
     int odd_sum = 0;
@@ -18,5 +19,5 @@ int main() {
     printf("Sum of even numbers: %d\n", even_sum);
     printf("Sum of odd numbers: %d\n", odd_sum);
 
-    return 0;
+    getch();
 }
