@@ -13,7 +13,7 @@ int main(){
   int my_into = get_into(5,12);
   printf("Into= %d\n", my_into);
 
-  int my_division= get_division(84,8);
+  int my_division= get_division(80,8);
   printf("Division= %d\n", my_division);
 
   return 0;
