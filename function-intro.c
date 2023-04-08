@@ -1,5 +1,8 @@
 #include<stdfix.h>
-
+get_sum();
+get_sub();
+get_into();
+get_division();
 int main(){
   int my_sum = get_sum(10,20);
   printf("Sum= %d\n", my_sum);
