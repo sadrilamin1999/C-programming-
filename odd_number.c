@@ -1,4 +1,4 @@
-
+// Find the odd numbers of array
 #include<stdio.h>
 #include<conio.h>
 

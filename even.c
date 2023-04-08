@@ -1,4 +1,4 @@
-// find the even numbers
+// find the even numbers of array
 #include<stdio.h>
 #include<conio.h>
 

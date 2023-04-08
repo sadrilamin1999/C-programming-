@@ -1,4 +1,4 @@
-// Print the minimum value of array
+// Print the smalest value of array
 #include<stdio.h>
 #include<conio.h>
 
