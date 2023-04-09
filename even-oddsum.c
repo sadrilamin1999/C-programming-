@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include<conio.h>
 
+
 void main() {
     int numbers[6] = {2, 5, 3, 9, 4, 6};
     int even_sum = 0;
